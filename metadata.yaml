@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/940
     wikipedia: http://en.wikipedia.org/wiki/Henry_Drummond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30876#Eternal-Life
 gutenberg_issued: '2010-01-06'
 gutenberg_type: Text
 identifiers:
